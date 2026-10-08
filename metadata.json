@@ -1,0 +1,6 @@
+{
+  "name": "NeuroCraft 100H: The Complete AI, GenAI & Agent Engineering Curriculum",
+  "description": "A comprehensive 100-hour master curriculum and interactive learning engine covering AI Fundamentals, Neural Network Architectures, LLMs, AI Agents, Automation, and Production Full-Stack Deployment with interactive visualizers and AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
